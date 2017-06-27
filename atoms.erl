@@ -1,4 +1,4 @@
--module(tut2).
+-module(atoms).
 -export([convert/2]).
 
 convert(M, inch) -> M / 2.54;

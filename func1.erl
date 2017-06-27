@@ -1,4 +1,4 @@
--module(tut1).
+-module(func1).
 -export([fac/1, mult/2]).
 
 fac(1) -> 1;
